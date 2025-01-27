@@ -1,0 +1,42 @@
+body {
+    padding:0;
+    margin:0;
+    background:#040317;
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.headphone {
+    width: 1500px;
+    height:auto;
+}
+
+.RelaxandRecharge {
+    width:1000px;
+    height:auto;
+}
+
+.FocusOnMyself {
+    width:1400px;
+    height:auto;
+}
+
+.AivodSocial {
+    width:1400px;
+    height:auto;
+}
+
+.Loner {
+    width:1400px;
+    height:auto;
+}
+
+.SolipsismOfJoy {
+    width:1400px;
+    height:auto;
+}
